@@ -1,5 +1,7 @@
 # OpenShift Basic App Deployment
 
+Blog Semblance Steps > https://rifaterdemsahin.com/2024/11/30/poc-basic-app-deploy-on-openshift/
+
 This repository contains a comprehensive guide for deploying basic applications on OpenShift using CodeReady Containers (CRC). It includes instructions for setting up the environment, deploying sample applications, and troubleshooting common issues.
 
 ## Table of Contents
